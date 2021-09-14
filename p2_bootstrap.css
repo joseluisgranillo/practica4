@@ -1,0 +1,19 @@
+.header{
+	border: 2px black solid;
+	height: 100px;
+}
+
+.columna{
+	border: 2px black solid;
+	height: 400px;
+}
+
+.colum{
+	border: 2px solid black;
+	height: 50px;
+}
+
+.footer{
+	border: 2px solid black;
+	height: 100px;
+}
